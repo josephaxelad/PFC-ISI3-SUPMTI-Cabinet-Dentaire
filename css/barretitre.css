@@ -1,0 +1,19 @@
+#barretitre{
+  background-image: url(../images/car1.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /*background-color: rgba(0, 255, 158, 1);*/
+  height: 350px;
+  width: 100%;
+  position: absolute;
+  top:50px;
+}
+#titre{
+  text-align: center;
+  margin-top: 145px;
+  font-family: "Lucida Console", Courier, monospace;
+  font-weight: bold;
+  font-size: 60px;
+  color: white;
+}

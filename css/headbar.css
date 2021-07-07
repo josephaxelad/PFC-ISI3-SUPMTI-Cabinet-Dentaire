@@ -1,0 +1,44 @@
+#barrenav{
+	background-color: white;
+	height: 50px;
+	width:100%;
+	position: fixed;
+	z-index: 1;
+}
+
+
+/*#barre{
+	height: 10%;
+	width: 100%;
+	position: fixed;
+	background-color: white;
+	border-color:black;
+	border-width:1px;
+	border-bottom-style:solid;
+	transition: margin-left .5s;
+
+}*/
+/*#traitbar{
+	margin-top: 6px;
+	height: 45px;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: black;
+}
+#menu{
+	padding: 1% 50px;
+}
+[class*="col-md-"]{*/
+/*  background-color: orange;
+  border: 2px solid black;
+  border-radius: 6px;
+  line-height: 40px;*/
+  /*text-align: center;	
+}
+[class*="col-xs-"]{
+/*  background-color: orange;
+  border: 2px solid black;*/
+/*  border-radius: 6px;
+  line-height: 40px;
+*/  /*text-align: center;*/
+/*}*/
